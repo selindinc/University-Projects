@@ -1,0 +1,5 @@
+<launch>
+<node pkg="assign2" type="main.py" name="main"/>
+
+	
+</launch>

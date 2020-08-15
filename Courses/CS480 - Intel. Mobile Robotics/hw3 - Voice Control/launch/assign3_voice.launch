@@ -1,0 +1,5 @@
+<launch>
+<node pkg="OzdenS" type="ros_voice_control.py" name="ros_voice_control"/>
+
+	
+</launch>

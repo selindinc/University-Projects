@@ -1,0 +1,9 @@
+roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/home/sinem/kinetic.world
+roslaunch turtlebot_rviz_launchers view_navigation.launch
+roslaunch turtlebot_gazebo gmapping_demo.launch
+cd ~/catkin_ws2/src/assign2/src
+python2 test.py
+
+rostopic echo camera/rgb/image_raw/compressedDepth/parameter_descriptions
+
+

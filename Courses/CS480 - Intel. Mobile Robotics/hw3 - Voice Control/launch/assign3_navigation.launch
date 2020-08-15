@@ -1,0 +1,4 @@
+<launch>
+<node pkg="OzdenS" type="Go_To.py" name="go_to"/>
+	
+</launch>

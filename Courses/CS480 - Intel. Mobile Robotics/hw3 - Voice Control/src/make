@@ -1,0 +1,14 @@
+roslaunch turtlebot_bringup minimal.launch --screen
+roslaunch turtlebot_navigation amcl_demo.launch map_file:=/home/sdinc1/map.yaml
+roslaunch turtlebot_rviz_launchers view_navigation.launch --screen
+python go_to_specific_point_on_map.py
+
+python ros_voice_control.py
+
+python set_kws_threshold.py /home/sdinc1/voice_cmd.dic /home/sdinc1/voice_cmd.kwlist
+
+roslaunch turtlebot_navigation amcl_demo.launch map_file:=/home/sinem/catkin_ws2/src/assign2/src/test.map.yaml
+
+roslaunch turtlebot_gazebo amcl_demo.launch map_file:=/home/sinem/catkin_ws3/src/OzdenS/other/map.yaml
+
+roslaunch OzdenS assign3_navigation.launch lidar:=true move_base:=true amcl:=true gazebo:=true have_map_file:=true world_name:="turtlebot_world.launch" x:=0.5 y:=0.5
