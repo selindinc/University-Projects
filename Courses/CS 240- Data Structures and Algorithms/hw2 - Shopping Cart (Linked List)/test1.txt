@@ -1,0 +1,19 @@
+A pencil 3 .25
+A notebook 1 3.50
+A snack_bar 1 1.25
+A soda 1 1.50 1
+A book 1 12.50 3
+DA
+D 5
+DC
+DC 2
+DN
+R 2
+R 1
+DA
+DC
+R 3
+R 1
+R 1
+DA
+DC

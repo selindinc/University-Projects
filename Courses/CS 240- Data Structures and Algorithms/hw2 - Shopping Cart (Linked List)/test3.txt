@@ -1,0 +1,20 @@
+A pen 5 0.20
+A laptop 1 1200.50 1
+A camera 1 100.25
+A ebook 4 5.00 2
+A book 2 12.00 3
+DA
+D 2
+DC
+DC 4
+DN
+R 3
+R 2
+R 5
+DA
+DC
+R 1
+R 2
+R 1
+DA
+DC

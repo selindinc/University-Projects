@@ -1,0 +1,37 @@
+Output:
+
+Key: 1 Value: ATK !!!!
+Key: 2 Value: Misa <3
+Key: 3 Value: Selin Sulugoz
+Key: 4 Value: Sinem Simit <3
+Key: 5 Value: Egemen Ananas
+Key: 6 Value: OABB ?
+Height: 3
+Key: 1 Value: S
+Key: 2 Value: <3
+Height: 1
+Key: 1 Value: ATK !!!!
+Key: 2 Value: Misa <3
+Key: 3 Value: Selin Sulugoz
+Key: 4 Value: Sinem Simit <3
+Key: 5 Value: Egemen Ananas
+Key: 6 Value: OABB ?
+Size: 6
+1= ATK !!!!
+2= Misa <3
+3= Selin Sulugoz
+4= Sinem Simit <3
+Key found!
+Not empty!
+Key: 2 Value: Misa <3
+Key: 3 Value: Selin Sulugoz
+Key: 4 Value: Sinem Simit <3
+Key: 5 Value: Egemen Ananas
+Key: 6 Value: OABB ?
+Size: 5
+Key could not found!!!!!
+Not empty!
+Empty!
+Size: 0
+Tree is empty!
+

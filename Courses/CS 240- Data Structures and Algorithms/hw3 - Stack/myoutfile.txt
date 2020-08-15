@@ -1,0 +1,12 @@
+The result of evaluating: 23.8 4 * 19.5 2 - + is 112.7
+The result of evaluating: 6.8 10.5 - is -3.7
+The result of evaluating: 36 6 / is 6.0
+The result of evaluating: 30 17 2 / 10.6 3 * + - is -10.3
+The result of evaluating: 2.33 2.33 - is 0.0
+The result of evaluating: 15 0 / is inf
+The result of evaluating: 4 -2 * is -8.0
+The result of evaluating: -1 2 / is -0.5
+The result of evaluating: 56 45 2 / 3 4 + * is 157.5
+The result of evaluating: 45 456 45 645 6 7 467 + + + - * * is -22161600.0
+The result of evaluating: 45 , is 45.0
+The result of evaluating: 45 is 45.0

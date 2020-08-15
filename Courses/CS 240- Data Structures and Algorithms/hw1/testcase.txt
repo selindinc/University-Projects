@@ -1,0 +1,6 @@
+This is a test case
+
+     
+How many non-blank lines are there?
+Average words/non-blank line?
+Average alphas / word?
